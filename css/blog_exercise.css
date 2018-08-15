@@ -1,0 +1,44 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	border: 15px solid #91a3b0;
+	padding: 12px;
+	margin: 10px 20%;
+	font-size: 12px;
+}
+
+.blog-title {
+	text-transform: capitalize;
+	font-weight: 700;
+	font-size: 2.3em;
+}
+
+.blog-post {
+	margin: 12px 0;
+	border-bottom: 2px solid #f1f1f1;
+	font-size: 1.75em;
+	width: 90%;
+}
+
+.date {
+	text-transform: uppercase;
+	color: #5bb2cb;
+	font-size: .95em;
+	letter-spacing: .2em;
+}
+
+.first-paragraph {
+	border-left: .45em solid #91a3b0;
+	padding-left: .4em;
+}
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 95%;
+  margin: 20px 0 20px 10px;
+  width: 92%;
+  padding: 24px;
+}
+.card-3 {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}

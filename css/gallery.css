@@ -1,0 +1,43 @@
+/*img {
+	height: 215px;
+	width: 343px;
+	margin: 0 12px;
+}
+*/
+
+body {
+	padding-top: 70px;
+}
+
+a.nav-link {
+	color: white;
+}
+
+a.navbar-brand {
+	color: white;
+}
+
+a.nav-link:hover {
+	color: pink;
+}
+
+a.navbar-brand:hover {
+	color: orange;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar {
+	background-color: #2c3e50;
+}
+
+.card-img-top {
+	height: 250px;
+}
+
+img:hover {
+	transform: scale(1.03);
+}

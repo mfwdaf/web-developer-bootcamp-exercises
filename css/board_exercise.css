@@ -1,0 +1,28 @@
+body {
+	background: blue;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 50px;
+	color: white;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+}
+
+.vertical {
+	border-right: 3px solid black;
+	border-left: 3px solid black;
+}
+
+.horizontal {
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+}
