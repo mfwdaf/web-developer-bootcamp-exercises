@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Lato, sans-serif;
+}
+
+.nav-item button {
+  margin-left: 8px;
+  padding: 0;
+}
+
+i.fas.fa-paw:hover {
+  color: #f09d09;  
+}
+
+.navbar-default {
+  background-color: rgba(0,0,0,0.6825) !important;
+  border: 0;
+}
